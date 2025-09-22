@@ -14,7 +14,19 @@
             //{
             //    Console.WriteLine("Число не четное");
             //}
-
+            //задание2
+            Console.Write("Придумайте пароль:");
+            string pin1=Console.ReadLine();
+            Console.Write("Напишите пароль:");
+            string pin2=Console.ReadLine();
+            if (pin1==pin2)
+            {
+                Console.WriteLine("Пароль принят");
+            }
+            else
+            {
+                Console.WriteLine("Пароль не принят");
+            }
         }
     }
 }
