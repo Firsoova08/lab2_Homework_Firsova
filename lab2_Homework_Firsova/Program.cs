@@ -135,6 +135,22 @@
             //        Console.WriteLine($"{a}/{b}={a / b}"); ;
             //        break;
             //        }
-            }
+
+            //Задание9
+            //int a=int.Parse(Console.ReadLine());
+            //switch (a)
+            //{
+            //    case 1:
+            //        Console.WriteLine("Легкий");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Средний");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Сложный");
+            //        break;
+            //}
+
         }
+    }
 }
