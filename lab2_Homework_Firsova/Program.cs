@@ -42,6 +42,17 @@
             //{
             //    Console.WriteLine("Нет");
             //}
+
+            //Задание4
+            //int age=int.Parse(Console.ReadLine());
+            //if (age<18)
+            //{
+            //    Console.WriteLine("Доступ запрещен");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Доступ разрешен");
+            //}
         }
     }
 }
