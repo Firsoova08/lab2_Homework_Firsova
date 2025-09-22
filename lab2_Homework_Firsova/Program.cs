@@ -162,6 +162,35 @@
             //        Console.WriteLine("Сложный");
             //        break;
             //}
+            //задание11
+            //string clas=Console.ReadLine();
+            //switch(clas)
+            //{
+            //    case "воин":
+            //        Console.WriteLine("ближний боец");
+            //        break;
+            //    case "маг":
+            //        Console.WriteLine("дальнобойщик");
+            //        break;
+            //    case "разбойник":
+            //        Console.WriteLine("ближний боец");
+            //        break;
+            //    case "паладин":
+            //        Console.WriteLine("ближний боец");
+            //        break;
+            //    case "варвар":
+            //        Console.WriteLine("ближний боец");
+            //        break;
+            //    case "охотник":
+            //        Console.WriteLine("дальнобойщик");
+            //        break;
+            //    case "друид":
+            //        Console.WriteLine("ближний боец");
+            //        break;
+            //    case "жрец":
+            //        Console.WriteLine("дальнобойщик");
+            //        break;
+            //}
 
 
         }
