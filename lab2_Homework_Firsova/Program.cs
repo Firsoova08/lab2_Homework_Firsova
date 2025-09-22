@@ -205,6 +205,39 @@
             //else if (a > 0 & b < 0 & c > 0)
             //{ Console.WriteLine(a + c); }
             //else { Console.WriteLine(c + b); }
+
+            //Задание13
+            Console.WriteLine("Путь А: Войти в комнату с огромным драконом.");
+            Console.WriteLine("Путь B: Пойти по темному коридору.");
+            Console.Write("Выбери путь:");
+            string p=Console.ReadLine();
+            switch(p)
+            {
+                case "Путь А":
+                    Console.WriteLine("Кто не дышит, но живет; хоть не нужно — много пьет; и в жизни, и в смерти тело как лед.");
+                    string z = Console.ReadLine();
+                    if (z =="рыба")
+                    {
+                        Console.WriteLine("Дракон открыл вам дверь");
+                    }
+                    else {
+                        Console.WriteLine("Дракон вас съел");
+                            }
+                    break;
+                case "Путь В":
+                    int door=int.Parse(Console.ReadLine());
+                    if (door == 1)
+                    {
+                        Console.WriteLine("Сокровища Dungeon Master’а-вы победили");
+
+                    }
+                    else if (door == 2)
+                    {
+                        Console.WriteLine("ловушка с ядовитыми шипами-вы проиграли");
+                    }
+                    break;
+
+            }
         }
     }
 }
