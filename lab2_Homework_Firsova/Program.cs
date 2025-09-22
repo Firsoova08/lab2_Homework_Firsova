@@ -65,6 +65,28 @@
             //{
             //    Console.WriteLine(num2);
             //}
-        }
+
+            //Задание6
+            //double a=int.Parse(Console.ReadLine());
+            //double b=int.Parse(Console.ReadLine());
+            //string operation=Console.ReadLine();
+            //double r = 0;
+            //switch (operation)
+            //{
+            //    case "+":
+            //        r = a + b;
+            //        break;
+            //    case "-":
+            //        r = a - b;
+            //        break;
+            //    case "*":
+            //        r = a * b;
+            //        break;
+            //    case "/":
+            //        r = a / b;
+            //        break;
+            //}
+            //Console.WriteLine($"{a}{operation}{b}={r}");
+            //}
     }
 }
