@@ -192,7 +192,19 @@
             //        break;
             //}
 
-
+            //Задание12
+            //int a=int.Parse(Console.ReadLine());
+            //int b=int.Parse(Console.ReadLine());
+            //int c=int.Parse(Console.ReadLine());
+            //if (a>0&b>0&c>0)
+            //{
+            //    Console.WriteLine(a + b + c);
+            //}
+            //else if (a>0&b>0&c<0)
+            //{  Console.WriteLine(a + b);}
+            //else if (a > 0 & b < 0 & c > 0)
+            //{ Console.WriteLine(a + c); }
+            //else { Console.WriteLine(c + b); }
         }
     }
 }
