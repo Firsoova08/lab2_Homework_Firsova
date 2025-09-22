@@ -2,6 +2,18 @@
 {
     internal class Program
     {
+        //Задание10
+        //static int health = 100; //объявление переменной здоровья
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine($"Здоровье персонажа: {health}"); //вывод на консоль количество здоровья персонажа
+        //    TakeDamage(30); //вызов метода с аргументом количества урона
+        //}
+        //static void TakeDamage(int damage) //объявление метода
+        //{
+        //    health -= damage; // уменьшение количества здоровья от урона
+        //    Console.WriteLine($"Персонаж получил {damage} урона. Текущее здоровье: {health}."); //вывод на консоль
+        //}
         static void Main(string[] args)
         {
             //задание 1
@@ -150,6 +162,7 @@
             //        Console.WriteLine("Сложный");
             //        break;
             //}
+
 
         }
     }
