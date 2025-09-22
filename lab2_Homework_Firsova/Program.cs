@@ -115,6 +115,26 @@
             //        Console.WriteLine("Воскресенье");
             //        break;
             //}
+
+            //Задание8
+            //double a = int.Parse(Console.ReadLine());
+            //double b=int.Parse(Console.ReadLine());
+            //string c=Console.ReadLine();
+            //switch (c)
+            //{
+            //    case "+":
+            //       Console.WriteLine($"{a}+{b}={a + b}");
+            //        break;
+            //    case "-":
+            //        Console.WriteLine($"{a}-{b}={a - b}"); ;
+            //        break;
+            //    case "*":
+            //       Console.WriteLine($"{a}*{b}={a * b}");;
+            //       break;
+            //     case "/":
+            //        Console.WriteLine($"{a}/{b}={a / b}"); ;
+            //        break;
+            //        }
+            }
         }
-    }
 }
